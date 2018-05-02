@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus 5X"
+noReset = "true"
+appPackage = "com.sec.android.app.launcher"
+appActivity = ".activities.LauncherActivity"
+autoLaunch = "True"
+autoGrantPermissions = "true"
+automationName = "uiautomator2"
