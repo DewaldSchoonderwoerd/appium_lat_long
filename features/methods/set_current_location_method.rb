@@ -2,7 +2,6 @@ def set_current_location(location)
 	@current_latitude = location[:latitude]
 	@current_longitude = location[:longitude]
 	@current_name = location[:name]
-	current_location
 end
 
 def current_location
