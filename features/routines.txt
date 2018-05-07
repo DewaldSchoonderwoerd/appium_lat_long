@@ -1,0 +1,11 @@
+## Routine 1
+walk_to(csir_location_home, csir_location_1) 						walk_to(csir_location_1, csir_location_home)
+walk_to(csir_location_1, csir_gym_1) 										walk_to(csir_gym_1, csir_location_1)
+walk_to(csir_gym_1, b_garden_location_1) 								walk_to(b_garden_location_1, csir_gym_1)
+walk_to(b_garden_location_1, b_garden_location_2) 			walk_to(b_garden_location_2, b_garden_location_1)
+walk_to(b_garden_location_2, b_garden_location_3) 			walk_to(b_garden_location_3, b_garden_location_2)
+walk_to(b_garden_location_3, b_garden_location_4) 			walk_to(b_garden_location_4, b_garden_location_3)
+walk_to(b_garden_location_4, b_garden_location_5) 			walk_to(b_garden_location_5, b_garden_location_4)
+walk_to(b_garden_location_5, b_garden_location_6) 			walk_to(b_garden_location_6, b_garden_location_5)
+walk_to(b_garden_location_6, b_garden_location_8) 			walk_to(b_garden_location_8, b_garden_location_6)
+walk_to(b_garden_location_8, b_garden_location_9) 			walk_to(b_garden_location_9, b_garden_location_8)
